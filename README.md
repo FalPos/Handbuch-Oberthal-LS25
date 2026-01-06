@@ -1,5 +1,8 @@
-# 📘 Oberthal FS25 – Handbuch
+# 📘 Oberthal FS25 – Handbuch  
+**Version:** v1.0  
 
-👉 [Hier geht's direkt zur Vorschauseite mit PDF-Download](https://github.com/FalPos/Handbuch-Oberthal-LS25/blob/main/Handbuch%20und%20Produktions%C3%BCbersicht%20zur%20Karte%20Oberthal%20FS25.pdf)
+**Veröffentlicht:** Januar 2026  
 
-Dieses Repository enthält das Handbuch zur Oberthal FS25. Die Vorschauseite bietet eine übersichtliche Darstellung und direkten Zugriff auf die aktuelle PDF-Version.
+Dieses Handbuch enthält alle Produktionsübersichten und Karteninformationen zur Oberthal FS25.
+
+👉 **[PDF herunterladen](https://github.com/FalPos/Handbuch-Oberthal-LS25/raw/main/Handbuch%20und%20Produktions%C3%BCbersicht%20zur%20Karte%20Oberthal%20FS25.pdf)**
